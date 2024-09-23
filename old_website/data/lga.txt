@@ -1,0 +1,4 @@
+@article{chenlatent,
+  title={Latent Goal Allocation for Multi-Agent Goal-Conditioned Self-Supervised Imitation Learning},
+  author={Chen, Rui and Huang, Peide and Shi, Laixi}
+}
